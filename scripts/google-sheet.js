@@ -6,7 +6,7 @@ var random = document.querySelector('random');
 
 let myKey = "1S_c1AAit1xy1x0PDoNFOpn09BChlAVNcwoY7WRkLEGY"; // 스프레드시트 KEY
 
-let noCover = `https://i.namu.wiki/i/66evJzSR1h2ooOwjrx9RPaxSnWRvSsecGuzmXAymJ5RwfjxnUUcjcT-QNwLnxQK-uc6IMqQKoXeZOa9NNWBbOnwuToNshqcgwUbJmfqI-RA6HW6-4VOpadDnksFmHHYvYpqLTWUPrF8W87_3PjXlww.webp`;
+let noCover = `https://nng-phinf.pstatic.net/MjAyNTA1MTlfMjc4/MDAxNzQ3NTgzMjAyMTQx.bj2-ketWmFtlbkJA2RbtNfnQJJao5VTREw78uRH1d98g.4ajHA1jBEqjmrS6US9SMdbrTuUNpesZb6ivRTknxY1Ag.PNG/%EB%9D%BC%ED%95%B4%EB%9E%91%EB%9D%BC%EB%AA%A8%EB%82%98%EB%9E%91.png?type=f120_120_na`;
 
 var musicbook;
 var addOrdered;
